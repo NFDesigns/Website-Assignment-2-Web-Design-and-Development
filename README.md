@@ -1,2 +1,2 @@
-# Wight Painting and Decor
+# Wright Painting and Decor
  Assignment 2 - Web Design and Development
